@@ -14,4 +14,7 @@
     <color name="neon_green">#39FF14</color>
     <color name="neon_yellow">#FFEA00</color>
     <color name="text_white">#F8FAFC</color>
+
+    <color name="kidquest_gold">#FFD700</color>
+    <color name="kidquest_blue_mid">#1E88E5</color>
 </resources>
